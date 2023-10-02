@@ -3,7 +3,7 @@ Currently working on a solo PC game project. I use Unity for games but also trie
 
 Finished Projects
 
--> (Game Jam) https://softrise.itch.io/life-tree
+-> (Game Jam) https://softrise.itch.io/life-tree  
 -> https://github.com/That0neDev/Space-Runner a small infinite runner styled game made with unity c#
 
 <!---
