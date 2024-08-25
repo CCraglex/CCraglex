@@ -6,6 +6,7 @@ Finished Projects
 -> (Game Jam) https://softrise.itch.io/life-tree
 
 Solo Projects
+
 -> https://craglex.itch.io/tree-hunter : A game made using godot in a small time for challenge. All assets and code by me.
 
 
