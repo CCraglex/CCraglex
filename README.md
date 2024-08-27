@@ -1,5 +1,5 @@
 I am a game development student, currently in third year. Created a few small mobile game prototypes before finding out this site. 
-Currently working on a solo PC game project. I use Unity and Godot for games, tried monogame. I know Intermediate C#.
+I use Unity and Godot for games, tried monogame. I know Intermediate C#.
 
 Finished Projects
 
