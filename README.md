@@ -1,12 +1,6 @@
 ## Who are you?
 Hello! My name is Kaan Eren Şanlı and i am currently a student in Beykoz University and learning about game development. I am currently on 4th grade.
 
-## What are you working on?
-
-Right now i am working in a small 2d project in unity.
-
-https://github.com/That0neDev/ShiftingRealities
-
 ## What can you do?
 
 **Languages I know**
