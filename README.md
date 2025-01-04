@@ -36,11 +36,11 @@ https://github.com/That0neDev/ShiftingRealities
 
 - A small game made in Unity.
 
-### https://github.com/That0neDev/SimpleUI
+### https://github.com/CCraglex/SimpleUI
 
 - Simple UI handling package.
 
-### https://github.com/That0neDev/Tree-Design
+### https://github.com/CCraglex/Tree-Design
 
 - A tree design for generic use in C#.
 
